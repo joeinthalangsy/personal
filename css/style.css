@@ -1,0 +1,135 @@
+
+body {
+    margin: 0;
+}
+
+.div1 {
+    background-color:rgb(185, 212, 229);
+    padding: 70px;
+    font-family: "Sofia";
+    font-size: 40px;
+    text-align: center;
+}
+
+.div2 {
+    background-color: rgb(183, 233, 211);
+    padding: 325px;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    text-align: center;
+}
+
+.Georgia_Bulldogs_logo {
+    position: absolute;
+    top: 0;
+    left: 15px;
+}
+
+.adog2 {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    border: 20px solid rgb(219, 70, 70);
+    
+}
+
+
+.div3 {
+    background-color: rgb(227, 221, 221);
+    padding: 10px;
+    left: 0;
+    border-top: 30px solid #80dafb;
+    position: bottom;
+    width: 100%;
+    text-align: center;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+h1 {
+    color: rgb(84, 84, 195);
+}
+
+h3 {
+    color: rgb(224, 56, 56);
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  hr {
+    border-top-style: dashed;
+    border-top-width: 2px;
+    color: cyan;
+  }
+  
+.Languages img {
+    width: 5%;
+    float: right;
+
+}
+
+.LeadershipExperience img {
+    width: 8%;
+    float: left;
+}
+
+.Skills img {
+    width: 10%;
+    float: right;
+}
+
+
+.Languages ul {
+    list-style-position: inside;
+    float: center;
+}
+
+.LeadershipExperience dl {
+    list-style-position: inside;
+    float: center;
+}
+
+.Skills dl {
+    list-style-position: inside;
+    float: center;
+}
+
+.card {
+    width: 500px;
+    margin: 0 auto;
+    padding: 100px;
+    background-color: #e99292;
+    box-shadow: 0px 5px 10px #888888;
+    border: 1px solid #0fab50;
+  }
+
+  .top {
+    background-color:rgb(185, 212, 229);
+    padding: 1000px;
+    font-family: "Sofia";
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+
+
